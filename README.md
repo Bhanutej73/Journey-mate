@@ -3,7 +3,7 @@
 Journey mate is a travel solution for all the extensive travellers that face issues with loosing of their journey bag, running out of mobile battery, prolongingly standing hours during journey.
 <br>
 <hr>
-<b>The use cases of this project are:<b>
+**The use cases of this project are:**
 <br>
 1) Running out of mobile battery? No problem, you can charge your mobile phone with our in built mobile charger.
 <br>
@@ -12,7 +12,7 @@ Journey mate is a travel solution for all the extensive travellers that face iss
 3) Standing for too long? pull out the in-built mini chair at the back of bag and sit!
 <br>
 <hr>
-<b>The components used to build the location tracker are:<b>
+**The components used to build the location tracker are:**
 <br>
 1) Arduino UNO 
 <br>
@@ -24,6 +24,6 @@ Journey mate is a travel solution for all the extensive travellers that face iss
 <br>
 5) Neo-6M GPS Module
 <br>
-<b>Note:<b>Please refer to the Connections pdf in the resources folder for detailed schematics and source_code in the src folder for the source code.
+**Note:**Please refer to the Connections pdf in the resources folder for detailed schematics and source_code in the src folder for the source code.
 <br>
-In case of any queries, contact: <b>bhanutej930@gmail.com<b>
+In case of any queries, contact: **bhanutej930@gmail.com**
