@@ -24,6 +24,6 @@ The components used to build the location tracker are:
 <br>
 5) Neo-6M GPS Module
 <br>
-Note:Please refer to the Connections pdf in the resources folder for detailed schematics and source_code in the src folder for the source code.
+Note: Please refer to the Connections pdf in the resources folder for detailed schematics and source_code in the src folder for the source code.
 <br>
 In case of any queries, contact: bhanutej930@gmail.com
