@@ -3,7 +3,7 @@
 Journey mate is a travel solution for all the extensive travellers that face issues with loosing of their journey bag, running out of mobile battery, prolongingly standing hours during journey.
 <br>
 <hr>
-The use cases of our project are:
+The use cases of this project are:
 <br>
 1) Running out of mobile battery? No problem, you can charge your mobile phone with our in built mobile charger.
 <br>
